@@ -1,14 +1,14 @@
 # Hi there, I'm Abd Al Rhman 👋
 I'm a Python Developer, Data Scientist, and Django Developer based in Kazan, Russia. I have a passion for building intelligent systems that challenge the status quo and solve real-world problems differently. I'm also the founder of Solution AI, where I lead a team of talented students of developers and data scientists to build startups.
 
-## My Skills
+## 👨🏼‍💻 My Skills
 - Python Development
 - Django Development
 - Machine Learning
 - Public Speaking
 - Project Management
 
-## My Goals
+## My Goals For 2023
 My goal for 2023 is to master Machine Learning and Django Development. I believe that these skills are essential for building intelligent systems and web applications. I'm committed to staying up-to-date with the latest technologies and best practices in these areas.
 
 ## My Experience
