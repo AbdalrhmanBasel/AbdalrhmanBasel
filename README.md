@@ -35,8 +35,8 @@ I believe in challenging the status quo through the power of technology to make 
 ## ⚡ Fun Fact
 - I like tech entrepreneurship. 
 - I'm passionate about knowing & learning about startups developments.
-- I love taking care of my health and I my muscles by going to the gym.
-- I'm very comfortable with public speaking to persuade and convince people.
+- I love taking care of my health and my muscles by going to the gym.
+- I'm very comfortable with public speaking in the aim of persuading and convince other people around business ideas.
 
 ## 📫 How to reach me
 You can reach me on LinkedIn or Twitter. You can also visit my website to learn more about me and my work.
