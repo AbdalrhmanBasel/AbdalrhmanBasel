@@ -15,7 +15,7 @@ My goal for 2023 is to master Machine Learning and Django Development. I believe
 I have 2 years of experience in software development, data science, and project management. I'm very good at public speaking, doing presentations, and building and managing startup projects.
 
 ## 🔭 I’m currently working on
-I'm currently working on a machine learning project that uses natural language processing to analyze social media data.
+I'm currently working on a machine learning project that uses machine learning to generate particular set of content.
 
 ## 🌱 I’m currently learning
 I'm currently learning about deep learning and neural networks. I'm also learning more about Django REST framework for building web APIs.
